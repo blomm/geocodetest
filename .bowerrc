@@ -1,0 +1,4 @@
+{
+    "proxy": "http://rsaproxy.uk.rsa-ins.com:8080",
+    "https-proxy": "http://rsaproxy.uk.rsa-ins.com:8080"
+}
